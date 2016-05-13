@@ -1,6 +1,0 @@
----
-- hosts: XXXX, XXXX, XXXX
-  remote_user: cc
-  tasks:
-    - name: Enable root login
-      shell: sudo cp ~/.ssh/authorized_keys/root/.ssh/
